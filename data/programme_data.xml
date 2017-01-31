@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <programmeList>
+   <programme id="1">
+     <name>Alice in Wonderland</name>
+     <image>img/alice_in_wonderland.png</image>
+     <moods>Calm, Wide Awake, Happy, Fearless</moods>
+   </programme>
+   <programme id="2">
+     <name>Avatar</name>
+     <image>img/avatar.jpg</image>
+     <moods>Fearless, Wide Awake, Happy, Calm</moods>
+   </programme>
+   <programme id="3">
+     <name>Bruce Almighty</name>
+     <image>img/bruce_almighty.jpg</image>
+     <moods>Sad, Tired, Agitated, Scared</moods>
+   </programme>
+   <programme id="4">
+     <name>Ted</name>
+     <image>img/ted.jpg</image>
+     <moods>Sad, Tired, Agitated, Fearless</moods>
+   </programme>
+   <programme id="5">
+     <name>School of Rock</name>
+     <image>img/school_of_rock.jpg</image>
+     <moods>Tired, Scared, Sad, Agitated</moods>
+   </programme>
+   <programme id="6">
+     <name>Predator</name>
+     <image>img/predator.jpg</image>
+     <moods>Fearless, Wide Awake, Agitated, Happy</moods>
+   </programme>
+   <programme id="7">
+     <name>Dredd</name>
+     <image>img/dredd.jpg</image>
+     <moods>Fearless, Tired, Agitated, Happy</moods>
+   </programme>
+   <programme id="8">
+     <name>The Hangover</name>
+     <image>img/hangover.jpg</image>
+     <moods>Sad, Scared, Agitated, Tired</moods>
+   </programme>
+   <programme id="9">
+     <name>Frozen</name>
+     <image>img/frozen.jpg</image>
+     <moods>Scared, Sad, Tired, Agitated</moods>
+   </programme>
+</programmeList>

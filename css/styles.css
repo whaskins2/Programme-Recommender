@@ -1,0 +1,155 @@
+body{
+			margin-left:10px;
+			min-width:990px;
+			max-width:1000px;
+			}
+
+img.mainLogo{
+			width:95%;
+			height:95%;
+			padding-left:2px;
+			padding-top:3px;
+				}
+
+div.mainLogo{
+			width:140px;
+			height:106px;
+			border-style:solid;
+			border-radius:10px;
+			border-color:#2F5F9E;
+			margin:5px;
+			float:left;
+		}
+
+.title{
+			background-color:#456CBF;
+			border-style:solid;
+			border-radius:10px;
+			border-color:#2F5F9E;
+			height:48px;
+			width:804px;
+			text-align:center;
+			margin-top:5px;
+			float:left;
+			font-family:Calibri, sans-serif;
+			font-size:18px;
+			color:white;
+			}
+
+.header{
+			clear:both;
+}
+
+.nav{
+			background-color:#456CBF;
+			border-style:solid;
+			border-radius:10px;
+			border-color:#2F5F9E;
+			height:33px;
+			width:804px;
+			text-align:center;
+			margin-top:5px;
+			margin-bottom:5px;
+			float:left;
+			font-family:Calibri, sans-serif;
+			padding-top:14px;
+			color:white;
+}
+
+a{
+			color:white;
+}
+
+.sliders{
+	float:left;
+	text-align:center;
+	border-style:solid;
+	border-color:#2F5F9E;
+	margin:5px;
+	width:954px;
+	height:230px;
+}
+
+.fileSelect{
+			float:left;
+			text-align:center;
+			border-style:solid;
+			border-color:#2F5F9E;
+			margin:5px;
+			width:954px;
+			height:230px;
+}
+
+label{
+			font-size:26px;
+			font-family:Calibri, sans-serif;
+}
+
+input.slider{
+			width:250px;
+}
+
+.leftlabels{
+			float:left;
+			padding-right:50px;
+}
+
+.rightlabels{
+			float:right;
+}
+
+#slider1cont{
+			padding-left:150px;
+			margin-left:100px;
+			clear:both;
+			float:left;
+}
+
+#slider2cont{
+			padding-left:170px;
+			padding-right:100px;
+			margin-left:100px;
+			margin-right:100px;
+			clear:both;
+			float:left;
+}
+
+#slider3cont{
+			padding-left:182px;
+			margin-left:100px;
+			clear:both;
+			float:left;
+}
+
+#slider4cont{
+			padding-left:164px;
+			margin-left:100px;
+			clear:both;
+			float:left;
+}
+
+.progImg{
+			height:178px;
+			width:178px;
+			margin:5px;
+			border-style:solid;
+			border-color:#2F5F9E;
+			float:left;
+}
+
+.progTitle{
+			height:50px;
+			width:178px;
+			margin:5px;
+			border-style:solid;
+			border-color:#2F5F9E;
+			float:left;
+			font-family: Calibri, sans-serif;
+			font-size: 22px;
+			text-align:center;
+}
+
+.inputMsg{
+			font-size:26px;
+			font-family:Calibri, sans-serif;
+}
